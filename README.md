@@ -1,2 +1,4 @@
 # react-contact
-React Contact App
+Simple React Contact App
+
+Uses the Context API
